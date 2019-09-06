@@ -1,1 +1,5 @@
-message =hiiiiii
+driverClassName=com.mysql.jdbc.Driver
+url=mysql:jdbc://localhost:3306/test
+username=root
+password=password
+
